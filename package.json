@@ -1,0 +1,5 @@
+{
+  "name": "japon-2027",
+  "private": true,
+  "scripts": { "start": "python3 server.py" }
+}
