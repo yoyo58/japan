@@ -25,5 +25,6 @@ Puis ouvrir http://localhost:5173. (`npm start` lance `server.py`, un petit serv
 - `index.html`, `style.css`, `app.js` : l'app
 - `data.js` : le contenu du voyage (jours, logements, tâches, budget, valise…)
 - `photos.js`, `img/` : les photos (Wikimedia Commons, licences libres, crédits en bas de page)
-- `old-v3/` : la version « La Ligne » (le voyage comme une ligne de train)
+- `ligne/` : « La Ligne » améliorée, le voyage comme une ligne de train avec photos (http://localhost:5173/ligne/)
+- `old-v3/` : la première version de « La Ligne » (le voyage comme une ligne de train)
 - `old-v2/` : la version tableau de bord à onglets
